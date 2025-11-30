@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Ayush2004codex
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on google summer of code
+- 👀 I’m interested in development and aiml field
 - 📫 How to reach me ayushupadhyay2024@gmail.com
 - 😄 Pronouns: Ayco
 - ⚡ Fun fact: The average cloud weighs over one million pounds.
