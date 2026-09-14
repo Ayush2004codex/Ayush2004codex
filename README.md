@@ -12,8 +12,11 @@ Recently, my primary obsession has been **Agentic AI**—moving beyond standard 
 - 📫 **Reach me at:** https://www.linkedin.com/in/ayushupadhyay2004/
 
 ### 🛠️ Tech Stack & Tools
-* **Languages:** Python, C++, SQL
-* **AI/ML:** PyTorch, Hugging Face, Scikit-Learn, Pandas
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,mysql,pytorch,pandas" />
+  </a>
+</div>
 * **Agentic Frameworks:** LangChain, CrewAI, Autogen
 * **Core Skills:** DSA, Data Storytelling, Predictive Analytics
 
@@ -25,3 +28,9 @@ Recently, my primary obsession has been **Agentic AI**—moving beyond standard 
 - [A checklist and guide to get your repository collaboration-ready](https://dev.to/github/a-checklist-and-guide-to-get-your-repository-collaboration-ready-3eld)
 - [Provide context to GitHub Copilot Chat](https://dev.to/github/provide-context-to-github-copilot-chat-24op)
 <!-- BLOG-POST-LIST:END -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayush2004codex&show_icons=true&theme=tokyonight" alt="Ayush's GitHub Stats" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush2004codex&theme=tokyonight" alt="Ayush's Contribution Streak" />
+</div>
