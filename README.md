@@ -16,3 +16,7 @@ Recently, my primary obsession has been **Agentic AI**—moving beyond standard 
 * **AI/ML:** PyTorch, Hugging Face, Scikit-Learn, Pandas
 * **Agentic Frameworks:** LangChain, CrewAI, Autogen
 * **Core Skills:** DSA, Data Storytelling, Predictive Analytics
+
+### ✍️ Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
