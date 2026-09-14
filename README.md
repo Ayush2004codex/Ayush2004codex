@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayush2004codex/Ayush2004codex/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayush2004codex/Ayush2004codex/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ayush2004codex/Ayush2004codex/output/github-snake.svg">
+</picture>
 # Hi there, I'm Ayush Upadhyay 👋
 
 I am a developer and data enthusiast focusing on **Data Science, Machine Learning, and Artificial Intelligence**. 
